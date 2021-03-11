@@ -1,0 +1,78 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 90,
+  "results": {
+    "bestsellers_date": "2020-12-12",
+    "published_date": "2020-12-27",
+    "published_date_description": "",
+    "previous_published_date": "2020-12-20",
+    "next_published_date": "2021-01-03",
+    "lists": [
+      {
+        "list_id": 704,
+        "list_name": "Combined Print and E-Book Fiction",
+        "list_name_encoded": "combined-print-and-e-book-fiction",
+        "display_name": "Combined Print & E-Book Fiction",
+        "updated": "WEEKLY",
+        "list_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781524761332.jpg",
+        "list_image_width": 328,
+        "list_image_height": 500,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1524761338?tag=NYTBSREV-20",
+            "article_chapter_link": "",
+            "author": "Ernest Cline",
+            "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781524761332.jpg",
+            "book_image_width": 328,
+            "book_image_height": 500,
+            "book_review_link": "",
+            "contributor": "by Ernest Cline",
+            "contributor_note": "",
+            "created_date": "2020-12-16 23:02:09",
+            "description": "In a sequel to \u201cReady Player One,\u201d Wade Watts discovers a technological advancement and goes on a new quest.",
+            "first_chapter_link": "",
+            "price": "0.00",
+            "primary_isbn10": "1524761338",
+            "primary_isbn13": "9781524761332",
+            "book_uri": "nyt:\/\/book\/473f18d4-0433-5c42-abaa-54c7c9dd26e5",
+            "publisher": "Ballantine",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "READY PLAYER TWO",
+            "updated_date": "2020-12-16 23:02:09",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https:\/\/www.amazon.com\/dp\/1524761338?tag=NYTBSREV-20"
+              },
+              {
+                "name": "Apple Books",
+                "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=READY+PLAYER+TWO&author=Ernest+Cline"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524761332"
+              },
+              {
+                "name": "Books-A-Million",
+                "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREADY%2BPLAYER%2BTWO%2FErnest%2BCline%2F9781524761332"
+              },
+              {
+                "name": "Bookshop",
+                "url": "https:\/\/bookshop.org\/a\/3546\/9781524761332"
+              },
+              {
+                "name": "Indiebound",
+                "url": "https:\/\/www.indiebound.org\/book\/9781524761332?aff=NYT"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

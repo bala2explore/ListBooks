@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListBooks</string>
+    <string name="booktitle">Title : \u0020</string>
+    <string name="bookauthor">Author : \u0020</string>
+    <string name="bookpublisher">Publisher : \u0020</string>
+    <string name="bookcontributor">Contributor : \u0020</string>
+    <string name="bookdescription">Description : \u0020</string>
+</resources>

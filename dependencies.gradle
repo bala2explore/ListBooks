@@ -1,0 +1,35 @@
+ext {
+    versions = [
+            compileSdk            : 30,
+            targetSdk             : 30,
+            minSdk                : 21,
+            buildTools            : '30.0.3',
+            material              : '1.3.0',
+            recyclerview              : '1.1.0',
+            inject                : '1',
+
+
+            // Main dependencies
+            appCompat               : '1.2.0',
+            constraintLayout      : '2.0.4',
+            gson                  : '2.8.6',
+            junit                 : '4+',
+            espresso              : '3.3.0',
+    ]
+
+    libraries = [
+            appCompat             : "androidx.appcompat:appcompat:${versions.appCompat}",
+            recyclerview          : "androidx.recyclerview:recyclerview:${versions.recyclerview}",
+            constraintLayout      : "androidx.constraintlayout:constraintlayout:${versions.constraintLayout}",
+            material              : "com.google.android.material:material:${versions.material}",
+
+
+            gson                  : "com.google.code.gson:gson:$versions.gson",
+
+            // For testing
+            junit                 : "junit:junit:$versions.junit",
+            espressoCore          : "com.android.support.test.espresso:espresso-core:${versions.espresso}",
+            espressoIntents       : "com.android.support.test.espresso:espresso-intents:${versions.espresso}",
+    ]
+}
+
